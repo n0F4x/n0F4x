@@ -2,7 +2,7 @@
 
 I'm a software engineer student at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en).
 
-- I'm currently interested in learning the [Vulkan API](https://www.vulkan.org/) and modern multithreaded techniques.
+- I'm currently interested in learning the [Vulkan API](https://www.vulkan.org/) and modern multithreading techniques.
 
 🔥 Working on:
 
