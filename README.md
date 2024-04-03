@@ -8,7 +8,7 @@ I'm a software engineer student at [Budapest University of Technology and Econom
 
 - [data-driven-game-engine](https://github.com/n0F4x/data-driven-game-engine)
 
-✨ Special interests
+✨ Special interests:
 
 -   C++ fan
 
